@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/4dc9ebd8-7a85-485e-a533-91e07ea175ad">
+![Profile Image](https://github.com/user-attachments/assets/8ab46647-92a6-4857-80ac-66a0cbd754f0)
 
 ## Hey, I'm Jorge Sánchez
 * I am a DAM student from Aragon, Spain.
